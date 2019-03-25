@@ -1,0 +1,9 @@
+flask ~= 0.12.3
+bjoern
+httplib2
+python-dateutil
+requests==2.20.0
+redis
+hiredis
+gevent
+slackeventsapi
